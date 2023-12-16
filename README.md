@@ -1,7 +1,7 @@
 # 사용한 모델들.
 <hr>
 
-[![VIDEO-MAE]](https://arxiv.org/pdf/2203.12602.pdf)[![코드]](https://github.com/MCG-NJU/VideoMAE)(https://huggingface.co/MCG-NJU/videomae-base-finetuned-kinetics)
+[![VIDEO-MAE]](https://arxiv.org/pdf/2203.12602.pdf)[![코드]](https://github.com/MCG-NJU/VideoMAE)[![Hugginface]](https://huggingface.co/MCG-NJU/videomae-base-finetuned-kinetics)
 <br>
 [![LA-GCN]](https://arxiv.org/pdf/2305.12398v1.pdf)[![코드]](https://github.com/damnull/lagcn)
 
