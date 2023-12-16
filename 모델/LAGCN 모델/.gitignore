@@ -1,0 +1,8 @@
+*.pyc
+# dataset files
+data/ntu/*.npz
+data/ntu120/*.npz
+data/NW-UCLA/all_sqe
+data/NW-UCLA/all_sqe.zip
+# default workdir
+work_dir/
