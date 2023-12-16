@@ -29,10 +29,12 @@ LA-GCN
 ### 상용화
 VIDEO-MAE
     <br>
+    <b>학습된 모델 필요. 본 깃허브 페이지에는 없음</b> <br>
   -python ./실습/VIDEO-MAE.py  
       <br>
 LA-GCN
     <br>
+    <b>학습된 모델 필요. 본 깃허브 페이지에는 없음</b> <br>
   -python ./실습/LA_GCN.py  
 
 ## 상용화 비쥬얼화
