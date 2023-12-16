@@ -12,6 +12,7 @@
 
 ### LA-GCN
 <img width="955" alt="Screenshot 2023-12-16 at 20 00 08" src="https://github.com/new-Sunset-shimmer/Gesture/assets/77263106/afe07a5d-62de-495b-9a2e-d17b87939357">
+![Screenshot_2023-11-16_at_22 25 31](https://github.com/new-Sunset-shimmer/Gesture/assets/77263106/bdd0df94-fb77-46f8-af38-19d435b8aecf)
 
 
 ## 실행
