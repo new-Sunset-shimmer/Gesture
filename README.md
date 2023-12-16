@@ -39,6 +39,6 @@ LA-GCN
 
 ## 상용화 비쥬얼화
 ![스크린샷 2023-12-11 14 50 09](https://github.com/new-Sunset-shimmer/Gesture/assets/77263106/bd4c715f-a1b2-4c72-81be-acda15781989)
-![%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202023-12-11%2014 41 05](https://github.com/new-Sunset-shimmer/Gesture/assets/77263106/14d85700-b3d0-4bf4-b08d-2b30c7faf30d)
+(https://github.com/new-Sunset-shimmer/Gesture/assets/77263106/14d85700-b3d0-4bf4-b08d-2b30c7faf30d)
 
 
